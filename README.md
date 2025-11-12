@@ -22,7 +22,7 @@ Add this package to your `Package.swift` dependencies:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/strip-tags-swift.git", from: "1.0.0")
+    .package(url: "https://github.com/jpurnell/strip-tags-swift.git", from: "1.0.0")
 ]
 ```
 
